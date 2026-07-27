@@ -1,0 +1,1 @@
+Download gradle-8.2-bin.zip and place it here, or let Android Studio download it automatically.
